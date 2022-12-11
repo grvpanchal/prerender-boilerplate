@@ -27,7 +27,7 @@
   "homepage": "https://github.com/grvpanchal/prerender-boilerplate#readme",
   "dependencies": {
     "concurrently": "^5.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "prerender": "^5.6.0",
     "prerender-node": "^3.2.5"
   }
